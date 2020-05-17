@@ -16,3 +16,5 @@ Following is the link to final colab where we are getting the images from Tinder
 
 We have deployed our model on AWS using Django framework. Following is the link to our application source code
 https://github.com/LokeshVadlamudi/DLTinMachine
+
+**Video Url** : https://youtu.be/jdH6lrmbvg8
