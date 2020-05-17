@@ -14,7 +14,10 @@ Following is the link to final colab where we are getting the images from Tinder
 
 [Link to Final Colab](https://github.com/LokeshVadlamudi/DLprojectSJSU/blob/master/finalTinMachine.ipynb)
 
-We have deployed our model on AWS using Django framework. Following is the link to our application source code
-https://github.com/LokeshVadlamudi/DLTinMachine
+We have deployed our model on AWS using Django framework. Following is the link to our application source code.
+
+[Deployment Code Link](https://github.com/LokeshVadlamudi/DLTinMachine)
+
+[Power Point Presenation](https://github.com/LokeshVadlamudi/DLprojectSJSU/blob/master/TinMachine_DLProject.pptx)
 
 **Video Url** : https://youtu.be/jdH6lrmbvg8
