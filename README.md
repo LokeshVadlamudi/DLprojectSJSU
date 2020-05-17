@@ -1,4 +1,4 @@
-# DLprojectSJSU
+# DLprojectSJSU (Project is trained on TPU)
 
 **Project Name** : Tin Machine (Automating Tinder Swipes)
 
