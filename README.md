@@ -18,6 +18,6 @@ We have deployed our model on AWS using Django framework. Following is the link 
 
 [Deployment Code Link](https://github.com/LokeshVadlamudi/DLTinMachine)
 
-[Power Point Presenation](https://github.com/LokeshVadlamudi/DLprojectSJSU/blob/master/TinMachine_DLProject.pptx)
+[Project Presenation in PDF format](https://github.com/LokeshVadlamudi/DLprojectSJSU/blob/master/TinMachine_DLProject.pdf)
 
 **Video Url** : https://youtu.be/jdH6lrmbvg8
